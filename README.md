@@ -1,3 +1,9 @@
+# Reproducibility Study
+
+This repository is a fork of https://github.com/nguyenvanhoang7398/FANG. It adds two notebooks that contain additional code for data analysis and plotting, see `./plots_and_analysis`.
+
+The rest of this README is identical to the original.
+
 # Factual News Graph (FANG)
 This is the implementation of FANG - a graph representation learning framework for fake news detection. 
 
